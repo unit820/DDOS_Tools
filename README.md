@@ -23,7 +23,7 @@ then enter url domain of target
 
 
 their you go the attack is start
- Support Me by sending USDT to binance or you can send me mail to support@amzonattorney.site  for coustom hacking script
+ Support Me by sending USDT to binance 
 
 Binance
 TRC20:
