@@ -12,7 +12,8 @@ chmod +x ddos.sh
 
     <img width="145" alt="image" src="https://github.com/user-attachments/assets/1b4a180b-cda5-48cc-8fa5-d787689041cc" />
     then protocol
-<img width="265" alt="image" src="https://github.com/user-attachments/assets/7c7e01aa-eae7-4a4f-82a0-b701b497d3b3" />
+<img width="265" alt="442530248-7c7e01aa-eae7-4a4f-82a0-b701b497d3b3" src="https://github.com/user-attachments/assets/7d27d5f7-d48f-43da-80d8-65dc19ff12b8" />
+
 
 then enter url domain of target
 
